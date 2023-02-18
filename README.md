@@ -1,1 +1,4 @@
-# osTicket-Help-Desk-Ticketing-System-
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/Uconyeka/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/Uconyeka/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/Uconyeka/ticket-lifecycle)
